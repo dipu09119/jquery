@@ -1,0 +1,11 @@
+<hr/>
+<h4>class: <code>hs-base</code></h4>
+<p>Single Characters: (Pure CSS, no Javascript)</p>
+<span class="halfStyle hs-base" data-content="X">X</span>
+<span class="halfStyle hs-base" data-content="Y">Y</span>
+<span class="halfStyle hs-base" data-content="Z">Z</span>
+<span class="halfStyle hs-base" data-content="A">A</span>
+<hr/>
+<p>Automated on any text: (Requires jQuery to automate the task)</p>
+<span class="textToHalfStyle" data-halfstyle="hs-base">Half-style, please.</span>
+<hr/>
